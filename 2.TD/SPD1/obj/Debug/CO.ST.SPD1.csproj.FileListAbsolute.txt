@@ -1,0 +1,11 @@
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\Bin\Bin-Modular\mySAP365.CO.SP.SPD1.dll
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\Bin\Bin-Modular\mySAP365.CO.SP.SPD1.pdb
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\2. CO - Controlling\SPM\2.TD\SPD1\obj\Debug\CO.ST.SPD1.csproj.AssemblyReference.cache
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\2. CO - Controlling\SPM\2.TD\SPD1\obj\Debug\SPD1.frmSPD1.resources
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\2. CO - Controlling\SPM\2.TD\SPD1\obj\Debug\CO.SPD1.Properties.Resources.resources
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\2. CO - Controlling\SPM\2.TD\SPD1\obj\Debug\CO.ST.SPD1.csproj.GenerateResource.cache
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\2. CO - Controlling\SPM\2.TD\SPD1\obj\Debug\mySAP365.CO.SP.SPD1.dll.licenses
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\2. CO - Controlling\SPM\2.TD\SPD1\obj\Debug\CO.ST.SPD1.csproj.CoreCompileInputs.cache
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\2. CO - Controlling\SPM\2.TD\SPD1\obj\Debug\CO.ST.SPD1.csproj.Up2Date
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\2. CO - Controlling\SPM\2.TD\SPD1\obj\Debug\mySAP365.CO.SP.SPD1.dll
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\2. CO - Controlling\SPM\2.TD\SPD1\obj\Debug\mySAP365.CO.SP.SPD1.pdb

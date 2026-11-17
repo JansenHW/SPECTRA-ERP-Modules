@@ -1,0 +1,9 @@
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\Bin\Bin-Modular\mySAP365.CO.ST.STD1.dll
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\AIDIL MODULAR - mySAP365.25.2.5\2. CO - Controlling\STM\2.TD\STD1\obj\Release\CO.ST.STD1.csproj.AssemblyReference.cache
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\AIDIL MODULAR - mySAP365.25.2.5\2. CO - Controlling\STM\2.TD\STD1\obj\Release\STD1.frmSTD1.resources
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\AIDIL MODULAR - mySAP365.25.2.5\2. CO - Controlling\STM\2.TD\STD1\obj\Release\CO.STD1.Properties.Resources.resources
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\AIDIL MODULAR - mySAP365.25.2.5\2. CO - Controlling\STM\2.TD\STD1\obj\Release\CO.ST.STD1.csproj.GenerateResource.cache
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\AIDIL MODULAR - mySAP365.25.2.5\2. CO - Controlling\STM\2.TD\STD1\obj\Release\mySAP365.CO.ST.STD1.dll.licenses
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\AIDIL MODULAR - mySAP365.25.2.5\2. CO - Controlling\STM\2.TD\STD1\obj\Release\CO.ST.STD1.csproj.CoreCompileInputs.cache
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\AIDIL MODULAR - mySAP365.25.2.5\2. CO - Controlling\STM\2.TD\STD1\obj\Release\CO.ST.STD1.csproj.Up2Date
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\AIDIL MODULAR - mySAP365.25.2.5\2. CO - Controlling\STM\2.TD\STD1\obj\Release\mySAP365.CO.ST.STD1.dll

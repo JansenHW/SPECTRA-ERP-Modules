@@ -1,0 +1,9 @@
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\Bin\Bin-Modular\mySAP365.EM.HV.HVR5.dll
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\5. EM - Estate Management\HVM\3.SR\HVR5\obj\Release\EM.HV.HVR5.csproj.AssemblyReference.cache
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\5. EM - Estate Management\HVM\3.SR\HVR5\obj\Release\HVR5.frmHVR5.resources
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\5. EM - Estate Management\HVM\3.SR\HVR5\obj\Release\HV.HVR5.Properties.Resources.resources
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\5. EM - Estate Management\HVM\3.SR\HVR5\obj\Release\EM.HV.HVR5.csproj.GenerateResource.cache
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\5. EM - Estate Management\HVM\3.SR\HVR5\obj\Release\mySAP365.EM.HV.HVR5.dll.licenses
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\5. EM - Estate Management\HVM\3.SR\HVR5\obj\Release\EM.HV.HVR5.csproj.CoreCompileInputs.cache
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\5. EM - Estate Management\HVM\3.SR\HVR5\obj\Release\EM.HV.HVR5.csproj.Up2Date
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\5. EM - Estate Management\HVM\3.SR\HVR5\obj\Release\mySAP365.EM.HV.HVR5.dll

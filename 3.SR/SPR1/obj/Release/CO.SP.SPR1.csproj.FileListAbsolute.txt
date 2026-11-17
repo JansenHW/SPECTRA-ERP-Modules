@@ -1,0 +1,19 @@
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\Bin\Bin-Modular\Resources\10_effluent_WWTP.png
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\Bin\Bin-Modular\Resources\1_loading_ramp.png
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\Bin\Bin-Modular\Resources\2_sterilizer.png
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\Bin\Bin-Modular\Resources\3_thresher.png
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\Bin\Bin-Modular\Resources\4_pressing.png
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\Bin\Bin-Modular\Resources\5_clarification.png
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\Bin\Bin-Modular\Resources\6_nut_kernel.png
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\Bin\Bin-Modular\Resources\7_boiler.png
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\Bin\Bin-Modular\Resources\8_engine_room.png
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\Bin\Bin-Modular\Resources\9_water_treatment_WTP.png
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\2. CO - Controlling\SPM\3.SR\SPR1\obj\Release\CO.SP.SPR1.csproj.AssemblyReference.cache
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\2. CO - Controlling\SPM\3.SR\SPR1\obj\Release\SPR1.frmSPR1.resources
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\2. CO - Controlling\SPM\3.SR\SPR1\obj\Release\CO.SP.SPR1.csproj.GenerateResource.cache
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\2. CO - Controlling\SPM\3.SR\SPR1\obj\Release\CO.SP.SPR1.csproj.CoreCompileInputs.cache
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\2. CO - Controlling\SPM\3.SR\SPR1\obj\Release\CO.SP.SPR1.csproj.Up2Date
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\Bin\Bin-Modular\mySAP365.CO.SP.SPR1.dll
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\2. CO - Controlling\SPM\3.SR\SPR1\obj\Release\SP.SPR1.Properties.Resources.resources
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\2. CO - Controlling\SPM\3.SR\SPR1\obj\Release\mySAP365.CO.SP.SPR1.dll.licenses
+F:\mySAP365 Sandbox CWE\mySAP365 CWE 25.2.5\CWE MODULAR - mySAP365.25.2.5\2. CO - Controlling\SPM\3.SR\SPR1\obj\Release\mySAP365.CO.SP.SPR1.dll
